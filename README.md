@@ -1,5 +1,7 @@
 # data-wallet-go
 
+swagger URL: http://119.147.213.61:18083/swagger/index.html#/domain/post_domain_bind
+
 ## mfile 
 
 ### Upload
